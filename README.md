@@ -1,4 +1,4 @@
-# Sansio
+# Sansio   Rooftop Solar Panel Detection
 
 This folder contains code that can be used by alternative Flask
 implementations, for example Quart. The code therefore cannot do any
